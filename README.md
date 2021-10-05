@@ -1,11 +1,9 @@
-# Console aplication in Python 💻
+# Periodic table 🧪
 
-It's a project that i did using Python to use the periodic table
+It's an periodic table that returns some informations about the elements
 
 
 ## Objectives 🎯
 
-- Develop some console aplication starting from zero by myself
-- Practice Python language
-- Instigate creativity
-- Get myself closer of a real case
+- Develop a console aplication starting from zero 
+- Create an easy and practical periodic table to use
